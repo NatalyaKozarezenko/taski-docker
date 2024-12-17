@@ -125,4 +125,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: natadocker24/taski_frontend:latest
+          tags: natadocker24/taski_gateway:latest
